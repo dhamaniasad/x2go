@@ -14,4 +14,6 @@ To download the client, use this link:
 
 To install the server, use this script:
 
-    wget https://github.com/dhamaniasad/x2go/raw/master/setup -O - | sh
+##### Debian Wheezy(7) only
+
+    wget https://github.com/dhamaniasad/x2go/raw/master/setup.sh -O - | sh
