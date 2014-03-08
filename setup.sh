@@ -43,7 +43,7 @@ apt-get -y install iceweasel
 
 # Install x2goserver
 
-apt-get install x2goserver*
+apt-get -y install x2goserver*
 
 # Start x2goserver
 
