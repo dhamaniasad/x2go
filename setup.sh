@@ -49,4 +49,5 @@ apt-get install x2goserver*
 
 service x2goserver start
 
-echo "The server has now been setup. To connect to it, please use x2goclient, available from here : http://wiki.x2go.org/doku.php/doc:installation:x2goclient"
+echo "The server has now been setup. To connect to it, please use x2goclient, available from here : http://wiki.x2go.org/doku.php/doc:installation:x2goclient \n"
+echo "Please login using your root credentials when using x2goclient; choose xfce as the desktop environment"
