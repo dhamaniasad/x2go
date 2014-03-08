@@ -8,7 +8,7 @@ The x2go suite consists of 2 applications, the client and the server.
 
 To download the client, use this link 
 
-    [x2goclient](http://wiki.x2go.org/doku.php/doc:installation:x2goclient)
+[x2goclient](http://wiki.x2go.org/doku.php/doc:installation:x2goclient)
 
 #### x2goserver
 
